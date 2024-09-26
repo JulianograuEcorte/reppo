@@ -24,7 +24,7 @@ Este projeto foi desenvolvido como parte da disciplina de Programação para Int
 - **CSS Bootstrap**: Framework front-end amplamente utilizado que facilita o desenvolvimento de sites e aplicações web responsivas e móveis.
 - **JavaScript (AJAX)**: Usado para interações dinâmicas no frontend, possibilitando atualizações da página sem a necessidade de recarregá-la completamente.
 
-![der](downloads/DER.png)
+![der](img/DER.png)
 
 ## Figma: https://www.figma.com/design/5hHd2oq02oj0rdbCirXeaz/login?node-id=0-1&node-type=canvas&t=8DYYTWm1yn9KdvnP-0
 
