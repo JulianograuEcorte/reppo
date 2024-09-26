@@ -22,4 +22,6 @@ Este projeto foi desenvolvido como parte da disciplina de Programação para Int
 - **Banco de Dados**: MySQL
 - **Frontend**: HTML
 - **CSS**: Bootstrap
-- **JavaScript (AJAX)**:
+- **JavaScript (AJAX)**
+
+![Diagrama ER](downloads/DER.png)
